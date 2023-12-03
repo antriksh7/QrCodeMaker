@@ -1,1 +1,2 @@
-https://www.google.com
+Firstly you have to use the npm keyword in the terminal and install the modules
+Then by using the code just prompt the URL and you will get the Qr in the form of picture.
