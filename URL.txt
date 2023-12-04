@@ -1,2 +1,4 @@
 Firstly you have to use the npm keyword in the terminal and install the modules
+the first step is important because you are gonna need the node_modules file that you are get through the installation 
+Then you have to setup an json config. file by using npm init  <----- by this you can make a 
 Then by using the code just prompt the URL and you will get the Qr in the form of picture.
